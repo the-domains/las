@@ -4,11 +4,5 @@ color:
   brandStrength: 0.9305431
   lightness: 0.218638
   rhythmicContrast: 0.2329749
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
 typography_spectrum: 0.218638
-name: LAS
+name: LA on the grid
