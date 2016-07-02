@@ -1,8 +1,20 @@
-layout_spectrum: 0.2526882
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4551971
 color:
-  saturation: 0.2939068
-  brandStrength: 0.9305431
-  lightness: 0.218638
-  rhythmicContrast: 0.2329749
-typography_spectrum: 0.218638
+  saturation: 0.562724
+  lightness: 0.5053763
+  brandStrength: 0.04121864
+  rhythmicContrast: 0.4623656
+layout_spectrum: 0.2526882
 name: LA on the grid
