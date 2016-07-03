@@ -4,17 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.4551971
 color:
   saturation: 0.562724
-  lightness: 0.5053763
   brandStrength: 0.04121864
   rhythmicContrast: 0.4623656
-layout_spectrum: 0.2526882
+  lightness: 0.5053763
+layout_spectrum: 1
 name: LA on the grid
